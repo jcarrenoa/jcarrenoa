@@ -1,11 +1,11 @@
-# 👋 ¡Hola! Soy Aaron José Rodriguez Carreño
+# 👋 Hi! I'm Aaron José Rodriguez Carreño
 
-🎓 Estudiante de 9no semestre de **Ingeniería de Sistemas y Computación** en la **Universidad del Norte**.  
-💻 Apasionado por el desarrollo de software, con sólidos conocimientos técnicos y habilidades interpersonales destacadas.
+🎓 9th-semester student of **Systems and Computer Engineering** at **Universidad del Norte**.  
+💻 Passionate about software development, with strong technical knowledge and outstanding interpersonal skills.
 
 ---
 
-## 🚀 Tecnologías que uso
+## 🚀 Technologies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -20,27 +20,27 @@
 
 ---
 
-## 💼 Sobre mí
+## 💼 About Me
 
-- 📚 Actualmente enfocado en proyectos académicos y personales para seguir desarrollando mis habilidades.
-- 🧠 Nivel intermedio de inglés.
-- 🗣️ Fuerte en **oratoria y comunicación**, ideal para presentaciones y trabajo en equipo.
-- 🎸 Músico aficionado (guitarrista), lo que refuerza mi **disciplina, creatividad y autoorganización**.
-- 🤝 Me considero **proactivo, adaptable y con alta capacidad de colaboración**.
-
----
-
-## 📫 Cómo contactarme
-
-Puedes encontrarme en:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/aaron-rodriguez-285182320)
-[![Correo electrónico](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaron.rodriguez.c02@gmail.com)
+- 📚 Currently focused on academic and personal projects to keep improving my skills.
+- 🧠 Intermediate level of English.
+- 🗣️ Strong skills in **public speaking and communication**, ideal for presentations and teamwork.
+- 🎸 Guitar enthusiast, which has helped me develop **discipline, creativity, and self-organization**.
+- 🤝 I'm **proactive, adaptable, and a great team player**.
 
 ---
 
-## 📌 Intereses actuales
+## 📌 Current Interests
 
-- Desarrollo backend con **Python/Django** y **Node/Express**
-- Bases de datos relacionales y no relacionales
-- Mejora continua en arquitectura de software y clean code
+- Backend development with **Python/Django** and **Node/Express**
+- Relational and non-relational databases
+- Clean architecture and writing maintainable code
+
+---
+
+## 📫 Contact Me
+
+You can find me at:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-rodriguez-285182320)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aaron.rodriguez.c02@gmail.com)
